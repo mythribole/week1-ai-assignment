@@ -12,3 +12,4 @@ This repository contains:
 - JSON
 - APIs
 - GitHub
+- Repository created for Week 1 AI Assignment.
