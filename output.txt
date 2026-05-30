@@ -50,3 +50,4 @@ Menu
 Choose an option: 4
 
 Exit
+Program executed successfully.
