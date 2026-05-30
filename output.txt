@@ -1,0 +1,52 @@
+Smart Student Assistant Output
+
+Enter your name: Mythri
+
+Hello, Mythri! Welcome to Smart Student Assistant.
+
+Menu
+
+1. Generate Study Tip
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+
+Choose an option: 1
+
+Study Tip:
+Study for 25 minutes and take short breaks.
+
+Menu
+
+1. Generate Study Tip
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+
+Choose an option: 2
+
+Motivation Quote:
+Success comes from consistency.
+
+Menu
+
+1. Generate Study Tip
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+
+Choose an option: 3
+
+Current Date & Time:
+31-05-2026 10:30 AM
+
+Menu
+
+1. Generate Study Tip
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+
+Choose an option: 4
+
+Exit
